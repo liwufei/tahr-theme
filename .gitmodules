@@ -1,0 +1,3 @@
+[submodule "themes/tahr"]
+	path = themes/tahr
+	url = https://github.com/hugotheme/tahr

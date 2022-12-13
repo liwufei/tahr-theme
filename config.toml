@@ -1,0 +1,4 @@
+baseURL = 'https://tahr-theme.netlify.app'
+languageCode = 'en-US'
+title = 'Tahr theme'
+theme = 'tahr'
